@@ -2,13 +2,13 @@
 #+DATE: <1986-02-01 Sat>
 
 #+BEGIN_CENTER
-不会 Haskell 的 Scala 程序员写不出好的 JavaScript
+不会 Javascript 的 Objective-C 程序员写不出好的 Swift
 #+END_CENTER
 
-Hi, I'm programmer who program =JavaScript=, =Ruby=, sometime even =Scala= for living, meanwhile also play =Clojure/Script=, =Haskell= and my own language =rù= for *fun*.
+Hi, I'm programmer who program =Swift=, =Objective-C=, sometime even =Javascript= for living, meanwhile also play =Python/Script= for *fun*.
 
 If you want to find/ping me, I'm always available on
-#+html: <a aria-label="Follow @jcouyang on GitHub" data-count-aria-label="# followers on GitHub" data-count-api="/users/jcouyang#followers" data-count-href="/jcouyang/followers" href="https://github.com/jcouyang" class="github-button">Follow @jcouyang</a>, <a href="https://twitter.com/oyanglulu" class="twitter-follow-button" data-show-count="false">Follow @oyanglulu</a>, <a href="http://www.linkedin.com/profile/view?id=75693502">Linkedin</a>, <a href="http://weibo.com/milhouse">Weibo</a> and  <a href="mailto:oyanglulu@gmail.com">Gmail</a>
+#+html: <a aria-label="Follow @tenhow on GitHub" data-count-aria-label="# followers on GitHub" data-count-api="/users/tenhow#followers" data-count-href="/tenhow/followers" href="https://github.com/tenhow" class="github-button">Follow @tenhow</a>, <a href="https://twitter.com/tenhow" class="twitter-follow-button" data-show-count="false">Follow @tenhow</a>, <a href="http://www.linkedin.com/profile/view?id=00000">Linkedin</a>, <a href="http://weibo.com/tenhow">Weibo</a> and  <a href="mailto:tenhow.dev@gmail.com">Gmail</a>
 
 * Projects
 #+html: <div id="github-widget" data-user="jcouyang" data-display="pop_repos,calendar"></div>
