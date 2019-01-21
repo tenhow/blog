@@ -1,0 +1,241 @@
+#+TITLE:Tenhow's Blog
+#+OPTIONS: toc:nil
+
+* [[file:scala/finch-vs-http4s.org][Finch vs Http4s, which is FPer]]
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: blogentry
+:RSS_PERMALINK: scala/finch-vs-http4s.html
+:PUBDATE: <2018-12-11 Tue>
+:ID:       4b9d192f-c072-441b-aceb-5481c0894a4c
+:END:
+* [[file:grokking-monad/scala/en/part2.org][Grokking Monad in Scala]]
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: blogentry
+:RSS_PERMALINK: grokking-monad/scala/en/part2.html
+:PUBDATE: <2018-11-28 Wed>
+:ID:       f6045b81-e559-4b5a-8b85-42619ce8da43
+:END:
+* [[file:grokking-monad/scala/en/part3.org][Grokking Monad in Scala - Free]]
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: blogentry
+:RSS_PERMALINK: grokking-monad/scala/en/part3.html
+:PUBDATE: <2018-11-19 Mon>
+:ID:       4e199656-4515-4efe-9b5e-45a14dd402b5
+:END:
+* [[file:shutting-down-gulugulu.org][关闭 gulugulu 弹幕]]
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: blogentry
+:RSS_PERMALINK: shutting-down-gulugulu.html
+:PUBDATE: <2018-11-06 Tue>
+:ID:       c20d451a-7b4e-49c7-8771-758f5b886a5b
+:END:
+* [[file:how-functional-programming-and-flink-will-save-your-ass-from-big-data.org][使用 Flink 解救多线程 Scala 应用]]
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: blogentry
+:RSS_PERMALINK: how-functional-programming-and-flink-will-save-your-ass-from-big-data.html
+:PUBDATE: <2018-10-20 Sat>
+:ID:       6c4170be-a3ee-4c45-93f5-518c60d8e971
+:END:
+* [[file:grokking-monad/part3.org][范畴论完全装逼手册 / Grokking Monad]]
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: blogentry
+:RSS_PERMALINK: grokking-monad/part3.html
+:PUBDATE: <2018-07-28 Sat>
+:ID:       b51f1b86-7f70-4dc0-9132-d93dadb7813b
+:END:
+* [[file:xreact/typeclasses-in-typescript.org][Type Classes in TypeScript]]
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: blogentry
+:RSS_PERMALINK: xreact/typeclasses-in-typescript.html
+:PUBDATE: <2017-09-09 Sat>
+:ID:       80ed64f2-dbc2-4b8f-9473-63efcd72b84b
+:END:
+* [[file:xreact/fun-with-fantasy.org][xReact Fantasy]]
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: blogentry
+:RSS_PERMALINK: xreact/fun-with-fantasy.html
+:PUBDATE: <2017-09-09 Sat>
+:ID:       b097935c-113a-4b86-a430-8949e8bb4db2
+:END:
+* [[file:grokking-monad/part1.org][范畴论完全装逼手册 / Grokking Monad]]
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: blogentry
+:RSS_PERMALINK: grokking-monad/part1.html
+:PUBDATE: <2017-02-10 Fri>
+:ID:       cbb41376-0d5e-47b0-8001-d6be742dc050
+:END:
+* [[file:grokking-monad/index.org][范畴论完全装逼手册 / Grokking Monad]]
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: blogentry
+:RSS_PERMALINK: grokking-monad/index.html
+:PUBDATE: <2017-02-10 Fri>
+:ID:       b8c7b53c-4131-4c5d-8d75-83cc63f21d50
+:END:
+* [[file:grokking-monad/part2.org][范畴论完全装逼手册 / Grokking Monad]]
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: blogentry
+:RSS_PERMALINK: grokking-monad/part2.html
+:PUBDATE: <2017-02-10 Fri>
+:ID:       75f5e4c0-7188-4369-b214-88018db3ec7e
+:END:
+* [[file:2016-year-in-review.org][2016 Year in Review]]
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: blogentry
+:RSS_PERMALINK: 2016-year-in-review.html
+:PUBDATE: <2016-12-24 Sat>
+:ID:       da3cfc29-8ea8-40f5-80d5-c9de85e8e9c4
+:END:
+* [[file:write-yourself-a-scheme-in-haskell/index.org][用Haskell48小时写你个Scheme]]
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: blogentry
+:RSS_PERMALINK: write-yourself-a-scheme-in-haskell/index.html
+:PUBDATE: <2016-09-16 Fri>
+:ID:       3a50b5ef-66aa-47db-8d99-fc6006afd00d
+:END:
+* [[file:functional-ruby.org][Functional Ruby]]
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: blogentry
+:RSS_PERMALINK: functional-ruby.html
+:PUBDATE: <2016-07-14 Thu>
+:ID:       f8cbeb48-1c0c-4641-b99d-069a1c712940
+:END:
+* [[file:scala/implicit-conversions.org][Implicit, to be or not to be]]
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: blogentry
+:RSS_PERMALINK: scala/implicit-conversions.html
+:PUBDATE: <2016-06-09 Thu>
+:ID:       d175ae60-232c-406c-9293-071a393c90e4
+:END:
+* [[file:rac/racprog.org][ReactiveCocoa Programming]]
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: blogentry
+:RSS_PERMALINK: rac/racprog.html
+:PUBDATE: <2016-06-09 Thu>
+:ID:       d0d82ed8-df2f-4b8b-894d-4829ec4934b4
+:END:
+* [[file:javascript/rethinking-react-dataflow.org][Rethinking React Dataflow]]
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: blogentry
+:RSS_PERMALINK: javascript/rethinking-react-dataflow.html
+:PUBDATE: <2016-03-01 Tue>
+:ID:       90f69f4a-e97d-4de5-99ad-dc2477bc986f
+:END:
+* [[file:javascript/react-transdux-the-clojure-approach-of-flux.org][看我们3天 hackday 都干了些什么]]
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: blogentry
+:RSS_PERMALINK: javascript/react-transdux-the-clojure-approach-of-flux.html
+:PUBDATE: <2015-11-22 Sun>
+:ID:       26ba1f36-f50c-4f95-b921-1bda38ba3577
+:END:
+* [[file:javascript/react-cookbook-mini.org][A Compact React Cookbook]]
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: blogentry
+:RSS_PERMALINK: javascript/react-cookbook-mini.html
+:PUBDATE: <2015-11-08 Sun>
+:ID:       a0f88d47-90fa-4807-8ee2-0dc171b7a002
+:END:
+* [[file:github/using-dotfiles-and-stow-to-manage-your-dotfiles.org][使用 dotfiles 和 stow 管理你的 dotfiles]]
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: blogentry
+:RSS_PERMALINK: github/using-dotfiles-and-stow-to-manage-your-dotfiles.html
+:PUBDATE: <2015-10-29 Thu>
+:ID:       fa4ddce7-4c18-449b-931c-8f37fbfa625c
+:END:
+* [[file:javascript/reactive-programming.org][Monadic Reactive Programming in JavaScript]]
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: blogentry
+:RSS_PERMALINK: javascript/reactive-programming.html
+:PUBDATE: <2015-09-29 Tue>
+:ID:       803c736b-eed2-4406-9996-8332195b3880
+:END:
+* [[file:javascript/ru-lang-second-attampt.org][入语言第二试: readtable 与 core.async]]
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: blogentry
+:RSS_PERMALINK: javascript/ru-lang-second-attampt.html
+:PUBDATE: <2015-08-16 Sun>
+:ID:       3886f69a-9154-423e-8fce-5749116509e5
+:END:
+* [[file:javascript/understand-prototype.org][理解JavaScript的原型链和继承]]
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: blogentry
+:RSS_PERMALINK: javascript/understand-prototype.html
+:PUBDATE: <2015-07-03 Fri>
+:ID:       8030055d-8722-45fa-bf21-befb95cc3fa4
+:END:
+* [[file:javascript/clojure-essence-in-javascript-macro-2.org][自制语言初试 - 入lang]]
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: blogentry
+:RSS_PERMALINK: javascript/clojure-essence-in-javascript-macro-2.html
+:PUBDATE: <2015-06-22 Mon>
+:ID:       8e055df6-ddb5-4dbd-8ac7-d07294742a21
+:END:
+* [[file:javascript/clojure-essence-in-javascript-macro.org][JavaScript玩转Clojure大法之 - Macro (1)]]
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: blogentry
+:RSS_PERMALINK: javascript/clojure-essence-in-javascript-macro.html
+:PUBDATE: <2015-06-14 Sun>
+:ID:       537b994f-1a54-47fa-a937-4b50beeb11ed
+:END:
+* [[file:javascript/clojure-essence-in-javascript-trampoline.org][JavaScript玩转Clojure大法之 - Trampoline]]
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: blogentry
+:RSS_PERMALINK: javascript/clojure-essence-in-javascript-trampoline.html
+:PUBDATE: <2015-05-30 Sat>
+:ID:       3d884eb3-a251-4e68-bc5d-92ea3aa02f20
+:END:
+* [[file:javascript/clojure-essence-in-javascript-transducer.org][JavaScript玩转Clojure大法之Transducer]]
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: blogentry
+:RSS_PERMALINK: javascript/clojure-essence-in-javascript-transducer.html
+:PUBDATE: <2015-05-16 Sat>
+:ID:       0e22523f-a379-4701-b4a5-dd973d2f7566
+:END:
+* [[file:javascript/functional-javascript.org][Functional JavaScript Mini Book]]
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: blogentry
+:RSS_PERMALINK: javascript/functional-javascript.html
+:PUBDATE: <2015-05-13 Wed>
+:ID:       adb596dd-560c-4218-b6c8-e8cabffc4270
+:END:
+* [[file:emacs/literal-programming-emacs-config.org][Literal Programming Emacs Configure]]
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: blogentry
+:RSS_PERMALINK: emacs/literal-programming-emacs-config.html
+:PUBDATE: <2015-05-08 Fri>
+:ID:       29f2307c-8ac0-45af-8158-be80067cdd58
+:END:
+* [[file:javascript/clojure-core.async-essence-in-native-javascript.org][Clojure 风格的 JavaScript 并发编程]]
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: blogentry
+:RSS_PERMALINK: javascript/clojure-core.async-essence-in-native-javascript.html
+:PUBDATE: <2015-04-28 Tue>
+:ID:       d656536b-9ab3-4cc0-979e-60fbc10cdf3d
+:END:
+* [[file:javascript/essential-ecmascript6.org][Essential EcmaScript 6]]
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: blogentry
+:RSS_PERMALINK: javascript/essential-ecmascript6.html
+:PUBDATE: <2015-03-20 Fri>
+:ID:       571fa525-1401-4b17-9d2c-3571e1a0b642
+:END:
+* [[file:clojure/clojure-the-mini-book.org][Clojure The Mini Book]]
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: blogentry
+:RSS_PERMALINK: clojure/clojure-the-mini-book.html
+:PUBDATE: <2015-02-26 Thu>
+:ID:       1aba97fe-21dd-4f9e-9fcd-e5eb2c5d8bf5
+:END:
+* [[file:make Bamboo support Github Pull Request with Status API.org][make Bamboo support Github Pull Request with Status API]]
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: blogentry
+:RSS_PERMALINK: make Bamboo support Github Pull Request with Status API.html
+:PUBDATE: <2015-02-18 Wed>
+:ID:       1c48337f-5856-45ff-9d92-5167bb8d68be
+:END:
+* [[file:tenhow.org][About Me]]
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: blogentry
+:RSS_PERMALINK: tenhow.html
+:PUBDATE: <1986-02-01 Sat>
+:ID:       043a964c-b301-45d9-9ba7-43e978259447
+:END:
