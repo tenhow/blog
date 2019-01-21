@@ -1,6 +1,6 @@
-#+TITLE: Jichao Ouyang's Blog
+#+TITLE: Tenhow's Blog
 #+DATE: <2015-02-05 Thu>
 
-[[https://blog.oyanglul.us][https://www.netlify.com/img/global/badges/netlify-color-accent.svg]]
+[[https://blog.no.mk][https://www.netlify.com/img/global/badges/netlify-color-accent.svg]]
 
-this is Jichao Ouyang's blog build proudly with [[https://github.com/jcouyang/orgpress][Orgpress]]
+this is Tenhow's blog build proudly with [[https://github.com/jcouyang/orgpress][Orgpress]]
